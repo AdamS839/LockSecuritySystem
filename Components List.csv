@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"KEYPAD1",1," Keypad 4x4"
+"U1",1," Arduino Uno R3"
+"U2",1,"PCF8574-based, 32 LCD 16 x 2 (I2C)"
+"SERVO1",1," Micro Servo"
+"D1",1,"Green LED"
+"D2",1,"Red LED"
+"R1, R2",2,"220 Ω Resistor"
